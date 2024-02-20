@@ -2,12 +2,16 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/noir-nebula-theme/Noir%20Nebula%20Preview)
 
-A sleek Visual Studio Code theme inspired by the mysterious depths of space and the noir genre.
+Welcome to Noir Nebula Theme! This theme is meticulously crafted to provide you with a comfortable coding experience imbued with the sleek aesthetics of noir.
+
+## Features
+- Comfortable coding experience
+- Sleek noir aesthetics
 
 ## Screenshots
 
 Noir Nebula Theme
-![Screenshot - Noir Nebula Theme](https://raw.githubusercontent.com/your-username/noir-nebula-theme/master/static/ss_noir_nebula.png)
+![Screenshot - Noir Nebula Theme](https://github.com/DevKailash/noir-nebula-theme/blob/main/screenshots/Screenshot-nebula.png)
 
 ## Disabling Italics
 
@@ -29,10 +33,10 @@ To disable italics, add the following to your `settings.json`:
 ```
 
 ## Other Information
-This theme is designed to provide a comfortable coding experience with a touch of noir aesthetics.
-For more information on customization options, please refer to the ![Visual Studio Code's Theme Color Reference.](https://code.visualstudio.com/api/references/theme-color)
 
-Enjoy your coding journey with Noir Nebula Theme!
+## Customization
+For more information on customization options, please refer to the [Visual Studio Code's Theme Color Reference](https://code.visualstudio.com/api/references/theme-color).
 
+Enjoy your coding journey with Noir Nebula Theme! Feel free to reach out if you need any further adjustments or additions.
 
-Feel free to let me know if you need any further adjustments or additions!
+--- 🚀 ---
