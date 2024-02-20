@@ -6,8 +6,17 @@
   "publisher": "kailash-publisher",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/DevKailash/noir-nebula-theme.git"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "noir nebula",
+    "noir-nebula",
+    "noirnebula",
+    "noir nebula theme",
+    "noir nebula dark"
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },

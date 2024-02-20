@@ -1,16 +1,38 @@
-# noir-nebula-theme README
+# Noir Nebula Theme
 
-## Working with Markdown
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/noir-nebula-theme/Noir%20Nebula%20Preview)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A sleek Visual Studio Code theme inspired by the mysterious depths of space and the noir genre.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshots
 
-## For more information
+Noir Nebula Theme
+![Screenshot - Noir Nebula Theme](https://raw.githubusercontent.com/your-username/noir-nebula-theme/master/static/ss_noir_nebula.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Disabling Italics
 
-**Enjoy!**
+To disable italics, add the following to your `settings.json`:
+
+```json
+"editor.tokenColorCustomizations": {
+    "[Noir Nebula Theme]": {
+        "textMateRules": [{
+            "scope": [
+                // Add your specific scopes here
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        }]
+    }
+}
+```
+
+## Other Information
+This theme is designed to provide a comfortable coding experience with a touch of noir aesthetics.
+For more information on customization options, please refer to the ![Visual Studio Code's Theme Color Reference.](https://code.visualstudio.com/api/references/theme-color)
+
+Enjoy your coding journey with Noir Nebula Theme!
+
+
+Feel free to let me know if you need any further adjustments or additions!
