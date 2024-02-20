@@ -20,6 +20,7 @@
   "engines": {
     "vscode": "^1.86.0"
   },
+  "icon": "logo.png",
   "categories": [
     "Themes"
   ],
