@@ -190,10 +190,10 @@
         "editorOverviewRuler.deletedForeground": "#703438",
 
         "editorRuler.foreground": "#101014",
-        "editorError.foreground": "#db4b4b",
-        "editorWarning.foreground": "#e0af68",
-        "editorInfo.foreground": "#0da0ba",
-        "editorHint.foreground": "#0da0ba",
+        "editorError.foreground": "#ef6b73",
+        "editorWarning.foreground": "#ffd580",
+        "editorInfo.foreground": "#5ccfe6",
+        "editorHint.foreground": "#ffcc66",
 
         "editorGutter.modifiedBackground": "#394b70",
         "editorGutter.addedBackground": "#164846",
@@ -297,12 +297,15 @@
         "titleBar.border": "#101014",
 
         "walkThrough.embeddedEditorBackground": "#16161e",
-        "textLink.foreground": "#6183bb",
-        "textLink.activeForeground": "#7dcfff",
-        "textPreformat.foreground": "#9699a8",
-        "textBlockQuote.background": "#16161e",
-        "textCodeBlock.background": "#16161e",
-        "textSeparator.foreground": "#363b54",
+
+        "textBlockQuote.background": "#2f3b54",
+        "textBlockQuote.border": "#2f3b54",
+        "textCodeBlock.background": "#171c28",
+        "textLink.activeForeground": "#ffcc66",
+        "textLink.foreground": "#ffcc66",
+        "textPreformat.foreground": "#d7dce2",
+        "textSeparator.foreground": "#d7dce2",
+
 
         "debugExceptionWidget.border": "#963c47",
         "debugExceptionWidget.background": "#101014",
@@ -349,6 +352,8 @@
         "terminal.ansiBrightMagenta": "#bb9af7",
         "terminal.ansiBrightCyan": "#7dcfff",
         "terminal.ansiBrightWhite": "#acb0d0",
+        "terminalCursor.background": "#FFA500",
+        "terminalCursor.foreground": "#FFA500",
 
         "gitDecoration.modifiedResourceForeground": "#6183bb",
         "gitDecoration.ignoredResourceForeground": "#515670",
