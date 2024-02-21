@@ -18,7 +18,7 @@
     "noir nebula dark"
   ],
   "engines": {
-    "vscode": "^1.86.0"
+    "vscode": "^1.84.1"
   },
   "icon": "themes/logo.png",
   "categories": [
