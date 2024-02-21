@@ -18,7 +18,7 @@
 ## Installation via VS Code:
 
 1. Open Visual Studio Code.
-2. Go to  `View** → Extensions`.
+2. Go to  `View → Extensions`.
 3. Search for `Noir Nebula`.
 4. **Install** the theme.
 5. **Reload** the editor.
