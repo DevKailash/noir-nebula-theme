@@ -25,6 +25,9 @@
 6. Go to Code > Preferences > Color Theme.
 7. Choose **Noir Nebula**.
 
+## Theme
+[Noir Nebula](https://marketplace.visualstudio.com/items?itemName=kailash-publisher.noir-nebula-theme)
+
 ## Theming Reference
 
 [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
