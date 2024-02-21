@@ -8,7 +8,7 @@
     Welcome to Noir Nebula Theme! This theme is meticulously crafted to provide you with a comfortable coding experience imbued with the sleek aesthetics of noir.
 </p>
 
-![demo](https://raw.githubusercontent.com/DevKailash/noir-nebula-theme/main/screenshots/Screenshot-nebula.png)
+![demo](https://raw.githubusercontent.com/DevKailash/noir-nebula-theme/main/screenshots/noir-nebula-screenshot.png)
 
 ## Features
 - Comfortable coding experience
