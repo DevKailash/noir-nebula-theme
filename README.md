@@ -37,4 +37,4 @@ Enjoy your coding journey with Noir Nebula Theme! Feel free to reach out if you 
 
 --- 🚀 ---
 
-###### Tokyo Tower icon used in theme icon made by dreamicons from www.flaticon.com.
+###### The Nebula icon used in the theme icon was made by Dreamicons and obtained from www.flaticon.com.
