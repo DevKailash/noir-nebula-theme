@@ -7,8 +7,10 @@
 <p align="center">
     Welcome to Noir Nebula Theme! This theme is meticulously crafted to provide you with a comfortable coding experience imbued with the sleek aesthetics of noir.
 </p>
-
-![demo](https://raw.githubusercontent.com/DevKailash/noir-nebula-theme/main/screenshots/noir-nebula-screenshot.png)
+<div align="center">
+  <img alt="Noir Nebula Demo" src="https://raw.githubusercontent.com/DevKailash/noir-nebula-theme/main/screenshots/noir-nebula-screenshot.png" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;" />
+</div>
+<!-- ![demo]() -->
 
 ## Features
 - Comfortable coding experience
