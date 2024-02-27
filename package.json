@@ -2,7 +2,7 @@
   "name": "noir-nebula-theme",
   "displayName": "NoirNebula",
   "description": "Embrace the darkness of the cosmos with Noir Nebula, a sleek and atmospheric theme for Visual Studio Code. Dive into your coding universe with deep, mysterious hues inspired by the enigmatic depths of space. Noir Nebula provides a captivating backdrop for your coding journey, combining the allure of film noir with the cosmic beauty of distant nebulae. Let Noir Nebula illuminate your coding experience with its elegant, dark aesthetic.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "kailash-publisher",
   "repository": {
     "type": "git",
