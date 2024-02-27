@@ -10,7 +10,6 @@
 <div align="center">
   <img alt="Noir Nebula Demo" src="https://raw.githubusercontent.com/DevKailash/noir-nebula-theme/main/screenshots/noir-nebula-screenshot.png" style="box-shadow: rgba(100, 100, 111, 0.8) 0px 12px 37px 0px;" />
 </div>
-<!-- ![demo]() -->
 
 ## Features
 - Comfortable coding experience
