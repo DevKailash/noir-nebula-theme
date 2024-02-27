@@ -29,13 +29,6 @@
 ## Theme
 [Noir Nebula](https://marketplace.visualstudio.com/items?itemName=kailash-publisher.noir-nebula-theme)
 
-## Theming Reference
-
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
-
-[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
-
-[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 Enjoy your coding journey with Noir Nebula Theme! Feel free to reach out if you need any further adjustments or additions.
 
